@@ -87,7 +87,7 @@ const services = [
     icon: Briefcase,
     title: "Consultoría Tecnológica",
     items: [
-      "Consultores con más de 25 años de experiencia en Telecomunicaciones",
+      "Consultores con amplia experiencia en Telecomunicaciones",
       "Estrategia tecnológica",
       "Optimización de costos Telco",
       "Gestión y evaluación de proveedores",
