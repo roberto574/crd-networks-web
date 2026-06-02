@@ -583,8 +583,8 @@ function Propuesta() {
         <div className="flex justify-center mt-10">
           <div className="flex items-center gap-8 flex-wrap justify-center">
             {[
-              { value: "+25", label: "Años de experiencia" },
-              { value: "5", label: "Áreas de servicio" },
+              { value: "Consultores", label: "Amplia experiencia" },
+              { value: "Tecnología / Conectividad", label: "Áreas de servicio" },
               { value: "360°", label: "Soluciones integrales" },
             ].map((stat) => (
               <div key={stat.label} className="text-center">
